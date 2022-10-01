@@ -1,10 +1,71 @@
-Real Madrid - Osasuna - in 4 days 
-Paris Saint-Germain - OGC Nice - in 3 days 
-Arsenal - Tottenham Hotspur - in 2 days 
-Eintracht Frankfurt - 1. FC Union Berlin - in 2 days 
-Napoli - Torino - in 2 days 
-RCD Mallorca - Barcelona - in 3 days 
-Angers - Olympique de Marseille - in 2 days 
-Manchester City - Manchester United - in 3 days 
-Atalanta - Fiorentina - in 3 days 
-1. FC Köln - Borussia Dortmund - in 2 days 
+-> Real Madrid - Osasuna 
+-> in 2 days 
+-> Jogando: Dentro de casa 
+-> Real Madrid aproveitamento: 100.0% 
+
+-----------------------------------------------
+
+-> Paris Saint-Germain - OGC Nice 
+-> O jogo será daqui a 18:36:31 horas 
+-> Jogando: Fora de casa 
+-> Paris S-G aproveitamento: 91.67% 
+
+-----------------------------------------------
+
+-> Arsenal - Tottenham Hotspur 
+-> O jogo será daqui a 11:06:22 horas 
+-> Jogando: Dentro de casa 
+-> Arsenal aproveitamento: 85.67% 
+
+-----------------------------------------------
+
+-> Eintracht Frankfurt - 1. FC Union Berlin 
+-> O jogo será daqui a 13:06:12 horas 
+-> Jogando: Fora de casa 
+-> Union Berlin aproveitamento: 81.0% 
+
+-----------------------------------------------
+
+-> Napoli - Torino 
+-> O jogo será daqui a 12:36:02 horas 
+-> Jogando: Dentro de casa 
+-> Napoli aproveitamento: 81.0% 
+
+-----------------------------------------------
+
+-> RCD Mallorca - Barcelona 
+-> O jogo será daqui a 18:35:52 horas 
+-> Jogando: Fora de casa 
+-> Barcelona aproveitamento: 89.0% 
+
+-----------------------------------------------
+
+-> Olympique de Marseille - Sporting CP 
+-> in 4 days 
+-> Jogando: Dentro de casa 
+-> Marseille aproveitamento: 83.33% 
+
+-----------------------------------------------
+
+-> Manchester City - Manchester United 
+-> in 2 days 
+-> Jogando: Dentro de casa 
+-> Manchester City aproveitamento: 81.0% 
+
+-----------------------------------------------
+
+-> Atalanta - Fiorentina 
+-> in 2 days 
+-> Jogando: Dentro de casa 
+-> Atalanta aproveitamento: 81.0% 
+
+-----------------------------------------------
+
+-> 1. FC Köln - Borussia Dortmund 
+-> O jogo será daqui a 13:05:12 horas 
+-> Jogando: Fora de casa 
+-> Dortmund aproveitamento: 71.33% 
+
+-----------------------------------------------
+
+-> Total de jogos dentro de casa: 6 
